@@ -1,0 +1,38 @@
+
+Tokens: tokens are the smallest unit of the program
+
+Statement: statements are single line of the code
+
+comments: To understand the code 
+
+variable rules: it can allows A to Z, a to z, 0 to 9, _
+                it starts with  A to Z, a to z, _
+                keywords are not allowed
+                it is case sensitive
+
+Data types
+numerical data type: int-1,2,3..im
+                     float-12.4,2.5..
+                     complex-2+4J...
+
+sequential data type: str-used for names ,address, immutable
+                          Define in "Sarayu"
+                      list-used to store list of items such as product in a cart or whishlist mutable , allows duplicates 
+                         Define in["a","b","C"]
+                      Tuple-used to store fixed data(immutable)
+                          Define in (3,2.9)
+
+set types: Set-used to store unique items without duplicates,mutable
+               Define in {"a","b"}
+           frozen set-its is fixed can't be modified
+
+Mapping type-dict-Used extensively to map product attributes, customer info, or order details, mutable
+              Define-{
+                     "name":"sarayu",
+                      }
+
+Boolean type-bool-used to check conditions like payment status, availability   
+               Define-payment=false
+
+None-used when something is not yet 
+               

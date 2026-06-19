@@ -1,0 +1,117 @@
+Python-Course-Work
+Day-1
+
+
+1. Computer System
+A computer system is an electronic device that processes data and performs tasks using hardware and software. Example:Typing a document in Microsoft Word — the keyboard (input), CPU (processing), RAM/storage (memory), and monitor (output) work together.
+2. Components of a Computer System
+1.	Input Devices: Keyboard, mouse, scanner.
+2.	Processing Unit (CPU): Executes instructions.
+3.	Memory & Storage: RAM, Hard Disk, SSD.
+4.	Output Devices: Monitor, printer, speakers.
+5.	Software: Operating system, applications.
+Example: When you open a web browser, the CPU processes instructions, RAM stores temporary data, and the monitor displays the browser window.
+3. Hardware vs. Software
+Feature	Hardware	Software
+Meaning	Physical parts	Programs and instructions
+Touch	Can be touched	Cannot be touched
+Example	CPU, RAM, Keyboard	Windows, MS Office, Browser
+Failure	May physically break	May become corrupted
+Example: A damaged keyboard is a hardware issue; a crashing browser is a software issue.
+4. Types of Memory
+Memory Type	Purpose	Example
+RAM	Temporary working memory	Running applications
+ROM	Permanent firmware storage	BIOS
+Storage Devices	Long-term data storage	SSD, Hard Drive
+Example: Unsaved work in RAM is lost if power goes off, but files saved on an SSD remain.
+5. Memory Allocation
+Allocation Type	When Allocated	Example
+Static	Before execution	Global variables
+Stack	During function calls	Local variables
+Heap	At runtime dynamically	Objects created with new or malloc()
+Example: Creating a large list dynamically in a program typically uses heap memory.
+6. Programming Languages
+Type	Description	Examples
+Low-Level	Close to machine language	Assembly, Machine Code
+High-Level	Easier for humans to read/write	Python, Java, C++
+Scripting	Used for automation	Python, JavaScript, PHP
+Example: Python can automate file operations with a few lines of code.
+7. Compiler vs. Interpreter
+Feature	Compiler	Interpreter
+		
+give little
+1. Introduction to Computer System
+A computer system is an electronic device that accepts input, processes data, stores information, and produces output. It consists of hardware and software.
+Example: Using a laptop to create a document in MS Word.
+________________________________________
+2. Components of a Computer System
+•	Input Devices: Keyboard, Mouse
+•	CPU: Processes instructions
+•	Memory/Storage: RAM, SSD, Hard Disk
+•	Output Devices: Monitor, Printer
+•	Software: Windows, MS Office
+Example: Typing on a keyboard and seeing the result on a monitor.
+________________________________________
+3. Hardware vs Software
+Hardware refers to physical components of a computer, while software refers to programs that run on the hardware.
+Example: Keyboard (hardware), Google Chrome (software).
+________________________________________
+4. Types of Memory
+•	RAM: Temporary memory, data is lost when power is off.
+•	ROM: Permanent memory storing firmware.
+•	Storage Devices: SSD, Hard Disk for long-term storage.
+Example: An unsaved Word document is stored in RAM.
+________________________________________
+5. Memory Allocation
+•	Static Allocation: Memory allocated before execution.
+•	Stack Allocation: Memory for local variables and function calls.
+•	Heap Allocation: Dynamic memory allocated during runtime.
+Example: Local variables inside a Python function use stack memory.
+________________________________________
+6. Programming Languages
+•	Low-Level Languages: Assembly, Machine Code
+•	High-Level Languages: Python, Java, C++
+•	Scripting Languages: Python, JavaScript, PHP
+Example: Python is used for web development and automation.
+________________________________________
+7. Compiler vs Interpreter
+A Compiler translates the entire program before execution, while an Interpreter executes code line by line.
+Examples:
+•	Compiler: C, C++
+•	Interpreter: Python
+________________________________________
+8. Procedural Programming
+A programming approach where programs are divided into functions and executed step by step.
+Characteristics: Top-down approach, reusable functions.
+Examples: C, Pascal, FORTRAN.
+________________________________________
+9. Object-Oriented Programming (OOP)
+A programming approach based on objects and classes that contain data and methods.
+Features: Encapsulation, Inheritance, Polymorphism, Abstraction.
+Examples: Python, Java, C++.
+________________________________________
+10. Introduction to Python
+Python is a high-level, interpreted, general-purpose programming language created by Guido van Rossum in 1991.
+Key Features:
+•	Easy syntax
+•	Dynamically typed
+•	Interpreted
+•	Supports OOP and Procedural Programming
+Example:
+print("Hello World")
+________________________________________
+11. Why Python?
+•	Easy to learn
+•	Cross-platform
+•	Large library support
+•	Fast development
+Example: Python is widely used in AI, Data Science, and Web Development.
+________________________________________
+12. Applications of Python
+•	Web Development (Django, Flask)
+•	Machine Learning & AI (TensorFlow, PyTorch)
+•	Data Science (Pandas, NumPy)
+•	Cybersecurity
+•	Automation & Scripting
+Example: Netflix and Instagram use Python in their systems. 
+
